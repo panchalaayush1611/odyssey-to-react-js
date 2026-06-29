@@ -7,8 +7,6 @@ function App() {
       <h1>this is rendered from App.jsx file</h1>
       <Coffee/>
       <h1>ReactJS | Aayush Panchal</h1>
-      <p>ReactJS | Aayush Panchal</p>
-      <p>Calvin Kelin Watch</p>
     </>
   )
 }
