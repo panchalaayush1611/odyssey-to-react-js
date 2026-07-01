@@ -13,7 +13,7 @@ function App() {
     counter -= 1;
     console.log("Clicked", counter);
   };
-
+  
   return (
     <>
       <h1>Chai aur hum</h1>
